@@ -1,11 +1,11 @@
 class Dog
   
-  fido = new.Dog
-  snoopy = new.Dog
-  lassie = new.Dog
+  fido = Dog.new
+  snoopy = Dog.new
+  lassie = Dog.new
 end
 
 class Person
-  adele_goldberg = new.Person
-  alan_kay  = new.Person
+  adele_goldberg = Person.new
+  alan_kay  = Person.new
 end
